@@ -1,12 +1,12 @@
 # 💫 About Me:
 # Hi there, I'm Richard Christoper Subianto! 👋
-<br><br>
+
 # I am a **Computer Science Student** at **Dian Nuswantoro University (UDINUS)**, Semarang. I have a deep passion for exploring the intersection of **Image Processing** and **Generative AI**. Currently, I'm focusing on sharpening my skills in AI development and modern software engineering.
-<br><br>
+
 # 🔍 What I'm Up To:<br> 🎓 **Learning:** Deepening my knowledge in Computer Vision and advanced coding patterns.<br> 💡 **Interests:** Image Processing, Generative Models, and Full-stack Development.<br> 📜 **Certifications:** Proudly completed several professional courses on **Coursera** to bolster my technical foundations.<br> 🌱 **Growth Mindset:** Always experimenting with new libraries and frameworks to build impactful solutions.
-<br><br>
+
 # 🛠 Tech Stack & Tools:<br>**Languages:** Python, PHP, Dart<br>**AI/ML:** OpenCV, TensorFlow/PyTorch (Learning), Image Processing Algorithms<br>**Web & Mobile:** Laravel, Django, Flutter<br>**Tools:** Git, Docker, Zotero
-<br><br> --- <br><br>
+
 # 🤝 Let's Connect!<br>I'm always open to collaborating on interesting projects or just talking about the future of AI.<br><br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-christoper-a192451b0)
 
 # 💻 Tech Stack:
